@@ -1,0 +1,34 @@
+C:\Users\Ernest\Desktop\Ernest's Stuff\VSProjects\fighting\fighting\bin\Debug\fighting.exe.config
+C:\Users\Ernest\Desktop\Ernest's Stuff\VSProjects\fighting\fighting\bin\Debug\fighting.exe
+C:\Users\Ernest\Desktop\Ernest's Stuff\VSProjects\fighting\fighting\bin\Debug\fighting.pdb
+C:\Users\Ernest\Desktop\Ernest's Stuff\VSProjects\fighting\fighting\obj\Debug\fighting.csprojResolveAssemblyReference.cache
+C:\Users\Ernest\Desktop\Ernest's Stuff\VSProjects\fighting\fighting\obj\Debug\fighting.Properties.Resources.resources
+C:\Users\Ernest\Desktop\Ernest's Stuff\VSProjects\fighting\fighting\obj\Debug\fighting.csproj.GenerateResource.Cache
+C:\Users\Ernest\Desktop\Ernest's Stuff\VSProjects\fighting\fighting\obj\Debug\fighting.exe
+C:\Users\Ernest\Desktop\Ernest's Stuff\VSProjects\fighting\fighting\obj\Debug\fighting.pdb
+C:\Users\Ernest\Desktop\Ernest's Stuff\VSProjects\fighting\fighting\obj\Debug\fighting.finalForm.resources
+C:\Users\Ernest\Desktop\Ernest's Stuff\VSProjects\fighting\fighting\obj\Debug\fighting.happifaceVictory.resources
+C:\Users\Ernest\Desktop\Ernest's Stuff\VSProjects\fighting\fighting\obj\Debug\fighting.instructions.resources
+C:\Users\Ernest\Desktop\Ernest's Stuff\VSProjects\fighting\fighting\obj\Debug\fighting.fight.resources
+C:\Users\Ernest\Desktop\Ernest's Stuff\VSProjects\fighting\fighting\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ernest\Desktop\Ernest's Stuff\VSProjects\fighting\fighting\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ernest\Desktop\Ernest's Stuff\VSProjects\fighting\fighting\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ernest\Desktop\Ernest's Stuff\VSProjects\fighting\fighting\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ernest\Desktop\Ernest's Stuff\VSProjects\fighting\fighting\obj\Debug\fighting.csproj.ResolveComReference.cache
+C:\Users\Ernest\Desktop\VSprojects\fighting\fighting\bin\Debug\fighting.exe.config
+C:\Users\Ernest\Desktop\VSprojects\fighting\fighting\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ernest\Desktop\VSprojects\fighting\fighting\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ernest\Desktop\VSprojects\fighting\fighting\obj\Debug\fighting.csproj.ResolveComReference.cache
+C:\Users\Ernest\Desktop\VSprojects\fighting\fighting\obj\Debug\fighting.exe
+C:\Users\Ernest\Desktop\VSprojects\fighting\fighting\obj\Debug\fighting.pdb
+C:\Users\Ernest\Desktop\VSprojects\fighting\fighting\bin\Debug\fighting.exe
+C:\Users\Ernest\Desktop\VSprojects\fighting\fighting\bin\Debug\fighting.pdb
+C:\Users\Ernest\Desktop\VSprojects\fighting\fighting\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ernest\Desktop\VSprojects\fighting\fighting\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ernest\Desktop\VSprojects\fighting\fighting\obj\Debug\fighting.csprojResolveAssemblyReference.cache
+C:\Users\Ernest\Desktop\VSprojects\fighting\fighting\obj\Debug\fighting.finalForm.resources
+C:\Users\Ernest\Desktop\VSprojects\fighting\fighting\obj\Debug\fighting.fight.resources
+C:\Users\Ernest\Desktop\VSprojects\fighting\fighting\obj\Debug\fighting.happifaceVictory.resources
+C:\Users\Ernest\Desktop\VSprojects\fighting\fighting\obj\Debug\fighting.instructions.resources
+C:\Users\Ernest\Desktop\VSprojects\fighting\fighting\obj\Debug\fighting.Properties.Resources.resources
+C:\Users\Ernest\Desktop\VSprojects\fighting\fighting\obj\Debug\fighting.csproj.GenerateResource.Cache
